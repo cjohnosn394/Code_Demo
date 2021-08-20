@@ -1,0 +1,10 @@
+C:\Users\NewUser-2018\source\repos\Craig_Johnson_Code_Demo\Craig_Johnson_Code_Demo\bin\Debug\Craig_Johnson_Code_Demo.exe.config
+C:\Users\NewUser-2018\source\repos\Craig_Johnson_Code_Demo\Craig_Johnson_Code_Demo\bin\Debug\Craig_Johnson_Code_Demo.exe
+C:\Users\NewUser-2018\source\repos\Craig_Johnson_Code_Demo\Craig_Johnson_Code_Demo\bin\Debug\Craig_Johnson_Code_Demo.pdb
+C:\Users\NewUser-2018\source\repos\Craig_Johnson_Code_Demo\Craig_Johnson_Code_Demo\obj\Debug\Craig_Johnson_Code_Demo.csprojAssemblyReference.cache
+C:\Users\NewUser-2018\source\repos\Craig_Johnson_Code_Demo\Craig_Johnson_Code_Demo\obj\Debug\Craig_Johnson_Code_Demo.Form1.resources
+C:\Users\NewUser-2018\source\repos\Craig_Johnson_Code_Demo\Craig_Johnson_Code_Demo\obj\Debug\Craig_Johnson_Code_Demo.Properties.Resources.resources
+C:\Users\NewUser-2018\source\repos\Craig_Johnson_Code_Demo\Craig_Johnson_Code_Demo\obj\Debug\Craig_Johnson_Code_Demo.csproj.GenerateResource.cache
+C:\Users\NewUser-2018\source\repos\Craig_Johnson_Code_Demo\Craig_Johnson_Code_Demo\obj\Debug\Craig_Johnson_Code_Demo.csproj.CoreCompileInputs.cache
+C:\Users\NewUser-2018\source\repos\Craig_Johnson_Code_Demo\Craig_Johnson_Code_Demo\obj\Debug\Craig_Johnson_Code_Demo.exe
+C:\Users\NewUser-2018\source\repos\Craig_Johnson_Code_Demo\Craig_Johnson_Code_Demo\obj\Debug\Craig_Johnson_Code_Demo.pdb
